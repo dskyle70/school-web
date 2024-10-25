@@ -184,6 +184,7 @@ footer{
   margin: 0px;
   padding: 30px;
   padding-left: 3%;
+  min-width: 100%;
 
   .f-head{
     display: block;
